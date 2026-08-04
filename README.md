@@ -11,7 +11,7 @@ A tiny collection of string helper functions, built as a practice project.
 
 ## Running Tests
 
-This project useses `pytest` for testing:
+This project uses `pytest` for testing:
 
 ```bash
 pytest test_string_utils.py

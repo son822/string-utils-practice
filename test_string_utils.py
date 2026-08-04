@@ -12,3 +12,8 @@ def test_is_palindrome():
 
 def test_count_vowels():
     assert count_vowels("Hello World") == 3
+
+
+def test_title_case():
+    assert title_case("hello world") == "Hello World"
+    assert title_case("the QUICK brown fox") == "The Quick Brown Fox"
