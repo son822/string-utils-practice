@@ -1,5 +1,8 @@
 # String Utils
 
+![Python](https://img.shields.io/badge/python-3.x-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 A tiny collection of string helper functions, built as a practice project.
 
 ## Functions
@@ -16,3 +19,7 @@ This project uses `pytest` for testing:
 ```bash
 pytest test_string_utils.py
 ```
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
